@@ -34,19 +34,4 @@ print(f"Thanks for playing, your total score = {score}")
 
 
 
-
-# print(f"Question: {question}")
-# print("Options: ")
-# for idx, option in enumerate(options, 1):
-#   print(f"{idx}. {option}")
-
-# answer = int(input("Your answer (1-4): "))
-# chosen_option = options[answer - 1]
-
-# if chosen_option == correct:
-#   print("The answer is correct.")
-# else:
-#   print(f"The answer is wrong, the correct answer is {correct}")
-
-
   
